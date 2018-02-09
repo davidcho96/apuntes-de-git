@@ -3,3 +3,5 @@ Utiliza el siguiente formato: `- Nombre. URL_DE_GITHUB`
 ---
 - Lucas Ferrero. https://github.com/lucasdavidferrero
 - Daniel Romero. https://github.com/danielromeroauk
+- David Maldonado. https://github.com/davidcho96
+
